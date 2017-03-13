@@ -1,5 +1,5 @@
 {
-    "name": "bedezign/yii2-audit",
+    "name": "thyseus/yii2-audit",
     "description": "Yii2 Audit records and displays web/cli requests, database changes, php/js errors and associated data.",
     "keywords": ["yii2", "audit", "trail", "logging"],
     "type": "yii2-extension",
